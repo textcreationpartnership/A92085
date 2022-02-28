@@ -1,0 +1,520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rump held forth last first-day in brotherly exercise, at the Bull and Mouth at Aldersgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92085</idno>
+            <idno type="STC">Wing R2274</idno>
+            <idno type="STC">Thomason E1017_35</idno>
+            <idno type="STC">ESTC R208169</idno>
+            <idno type="EEBO-CITATION">99867146</idno>
+            <idno type="PROQUEST">99867146</idno>
+            <idno type="VID">119437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rump held forth last first-day in brotherly exercise, at the Bull and Mouth at Aldersgate.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a blank final leaf.</note>
+                  <note>Annotation on Thomason copy: "Marsh. 22. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119437:1" rendition="simple:additions"/>
+            <p>THE RUMP Held forth laſt firſt-day in a Brotherly Exerciſe, at the <hi>Bull</hi> and <hi>Mouth</hi> at <hi>Alderſgate.</hi>
+            </p>
+            <q>Rump-<hi>atur quiſquis</hi> Rump-<hi>itur ex merito.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119437:2"/>
+            <pb n="1" facs="tcp:119437:2"/>
+            <head>The RUMP held-forth in a Bro<g ref="char:EOLhyphen"/>therly Exerciſe at the <hi>Bull</hi> and <hi>Mouth</hi> at <hi>Alderſgate. Rump</hi>-atur quiſquis <hi>Rump</hi>-itur ex merito.</head>
+            <opener>
+               <salute>Dearly beloved Brethren and Siſters,</salute>
+            </opener>
+            <p>WE are here devoutly met together in this our ſanctified and religious Meeting-place, to exerciſe our ſpiritual Gifts, in the hold<g ref="char:EOLhyphen"/>ing forth a little portion of ſcripture, as you will find it in the 37. <hi>Pſalm</hi> and the firſt part of the 17. <hi>verſe,</hi> in theſe words: <hi>The Arms of the wicked ſhall be broken.</hi>
+            </p>
+            <p>In the further holding forth of which words, give me leave to tell you, that I ſhall diſcover and diſcloſe unto you a notable Myſtery of Iniquity before I have done: And therefore, I ſhall impart unto you, how the words are rendred in an old Authentick Tranſla<g ref="char:EOLhyphen"/>tion, albeit, that it be in the language of the Beaſt of <hi>Rome. The arms</hi> (Brachia.) It is not ſaid (<hi>inſignia,</hi> or the States-arms, as the Croſs and the Fiddle, beloved) but the Arms; that is, by a figurative ſpeech, the Strength, Policy, Confidence, and all the carnall ſe<g ref="char:EOLhyphen"/>curity, being as the Arms of the Bodies: <hi>(improborum)</hi> of the wicked, or (as the word holds forth more pro<g ref="char:EOLhyphen"/>perly, of profeſſed Knaves, or cheating and diſhoneſt men) <hi>Rump entur,</hi> ſhall be broken, confounded diſ<g ref="char:EOLhyphen"/>ſolved, or brought to nought. <hi>The arms of the wicked ſhall be broken.</hi> Out of which words, we may hold forth one principal Doctrine, which is this, that al<g ref="char:EOLhyphen"/>though
+<pb n="2" facs="tcp:119437:3"/>
+wicked men or cunning crafty, ſubtile, de<g ref="char:EOLhyphen"/>ceiptfull, perjured, rebellious, banckrupt, lying and diſhoneſt knaves, whether they be Parliament men or others, do put their carnal confidence &amp; aſſurance in the Arms of fleſh, or in the ſtrength and valour of an Army by land, or Navy by ſea, yet <hi>Rump-entur,</hi> be<g ref="char:EOLhyphen"/>loved, <hi>they ſhall be broken;</hi> confounded, diſſolved, and brought to nought. The very Text it ſelf, is an affirmative propoſition, <hi>The arms of the wicked, Rump-entur.</hi> Scripture is ſo univerſally plain and poſitive for proof of our Doctrine, that we ſhall not need to vouch any Texts in particular, you know it well e<g ref="char:EOLhyphen"/>nough, beloved. But I ſhall hold forth unto you ſome Reaſons, and produce unto you ſeveral ex<g ref="char:EOLhyphen"/>amples, aswell ancient as modern, that will more ea<g ref="char:EOLhyphen"/>ſily perſwade you of the truth of our Propoſition.</p>
+            <p>Firſt, It is ſo, Becauſe wicked men are hated of God, and odious and abhominable to all good men; being perverted and corrupted in their Principles and Practice of Religion and honeſty; and therefore whatſoever their ſtrength, Policy, or carnal confi<g ref="char:EOLhyphen"/>dences are, or their wicked and devilliſh machina<g ref="char:EOLhyphen"/>tions, and helliſh inventions can contrive and project againſt good and godly men, <hi>Rump entur, they ſhall be broken all in pieces,</hi> and diſſolved, or <hi>Vane iſh</hi> away, like a miſt before the ſun in his power at noon-tide; as the word holds forth in a late tranſlation.</p>
+            <p>But ſecondly, beloved, it is ſo, becauſe the Arms of the wicked, are wicked arms, and therefore deſtru<g ref="char:EOLhyphen"/>ctive to the Saints; and therefore <hi>Rump-entur,</hi> they ſhall be broken. They ſhall be broken, not onely for Gods ſake, but for his Saints ſake The text is a Pro<g ref="char:EOLhyphen"/>miſe, and a very comfortable one too to the Saints,
+<pb n="3" facs="tcp:119437:3"/>
+that although wicked men, and politick knaves ſhall by ſtrength and power of Arms tyrannize and domi<g ref="char:EOLhyphen"/>neere, and ſwagger, and lord it, beloved, over the Saints for a long ſeaſon, for almoſt twenty years to<g ref="char:EOLhyphen"/>gether (as I may ſay) or longer; yet in the end this ſhall be certain; and therefore of great Conſolation to us, <hi>Rump-entur,</hi> they ſhall be broken and confoun<g ref="char:EOLhyphen"/>ded. As it is in the 15. <hi>verſe</hi> before my text, <hi>their Bows</hi> Rump entur <hi>ſhall be broken.</hi> By Bows, Sy-noc-doc-chically, all ſorts of Arms and Ammunition (whether great or ſmall Guns, great or ſmall ſhot, Gunpowder, Swords, Halberds, and ſo forth) are meant and intended in that place, beloved: And not onely their Arms, but by a Metonymie, their armed men too (whether they be horſe or foot) <hi>Rump-entur,</hi> they ſhall be routed or broken &amp; brought to nought.</p>
+            <p>There is a great deale of emphaſis and ſignificancy in the word <hi>Rump-entur,</hi> and it is very well and pro<g ref="char:EOLhyphen"/>perly tranſlated from the Original; and all the weight of my following Diſcourſe muſt reſt upon it. Oh! <hi>Rump-entur,</hi> they ſhall be broken in pieces, like a potters veſſel: Their ſnares, as it is in another Pſalm, <hi>Rump-entur,</hi> ſhall be broken. And (oh the Comfort is there) we ſhall be delivered, like a bird from the ſnares of the fouler, from theſe wicked men, whether they be Parliament-men, Committee-men, Exciſe men, Great-men, Little-men, Horſe-men, Foot-men, Head-men, Rump men; from all theſe in time we ſhall be delivered.</p>
+            <p>But then thirdly, beloved, an other reaſon of our Doctrine is, that it is ſo, becauſe the Power and Au<g ref="char:EOLhyphen"/>thority (as well in the foundation, as in the exerciſe and uſe of it) of wicked men, is a wicked and ungod<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:119437:4"/>
+power: And although they may be permitted for a time by the Almighty to tyranize, and uſurp, and reign, and be a plague and ſcourge to his people, the better to try their faith and other graces; yet at the laſt, theſe wicked men <hi>Rump-entur</hi> ſhall be broken, I ſay, they ſhall be broken, as a knaviſh, cheating bank<g ref="char:EOLhyphen"/>rupt is broken.</p>
+            <p>Fourthly, It is ſo, becauſe Divine Promiſes never are defeated for want of performances, either in re<g ref="char:EOLhyphen"/>ſpect of power or good will in the Almighty, in his own due time. And therefore (as we have lately ſeen by good and happy experience, even amongſt our ſelves in this Nation) the Arms of our wicked Rump-men, and their wicked Army-men, <hi>rump-untur</hi> they are broken: Their credit is banckrupt, and their confidence confounded.</p>
+            <p>
+               <hi>Objection,</hi> But ſome perhaps will object, That all our Parliament men were not, nor are not wicked men? And therefore that our honeſt ſecluded mem<g ref="char:EOLhyphen"/>bers and ſome others <hi>non Rump untur,</hi> are not broken; nor their honeſt Religious and truly Conſcientious Arms and Forces <hi>Rump-untur</hi> are broken.</p>
+            <p>By way of Anſwer, I ſay, that it is very true, <hi>non Rump untur,</hi> they are not broken, beloved, becauſe they are Religious, Loyall and Honeſt Gentlemen, and men of ſound principles, and unſpotted Reputa<g ref="char:EOLhyphen"/>tions, and ſuch as have nobly aſſerted the juſt Rights and Prerogative of our King, and the lawfull privi<g ref="char:EOLhyphen"/>ledges of Parliament. But they that are the wicked men in my Text, <hi>qui Rump-untur,</hi> who are broken, are ſuch, as, according to the exquiſite method held forth by a learned Author in his Metaphor of <hi>Mali, viz. Much Ale Little Thrift;</hi> I ſhall diſcover and reveale to
+<pb n="5" facs="tcp:119437:4"/>
+you, (I ſay, in that manner and form) by dichotomi<g ref="char:EOLhyphen"/>zing, diſſecting, dividing and taking in pieces the Letters contained in the firſt ſyllable of the Verb <hi>Rump-entur</hi> (in my Text, being four in number) and ranging them (as in ſeveral Columns) whereby you ſhall, beloved, more plainly and eaſily underſtand and diſtinguiſh, who thoſe wicked <hi>Rump-men,</hi> are,
+<table>
+                  <row>
+                     <cell role="label">R.</cell>
+                     <cell role="label">U.</cell>
+                     <cell role="label">M.</cell>
+                     <cell role="label">P.</cell>
+                  </row>
+                  <row>
+                     <cell>Regicides,</cell>
+                     <cell>Uſurpers,</cell>
+                     <cell>Murderers,</cell>
+                     <cell>Perjurers,</cell>
+                  </row>
+                  <row>
+                     <cell>Rebellious,</cell>
+                     <cell>Unrighteous</cell>
+                     <cell>Malitious</cell>
+                     <cell>Perfidious,</cell>
+                  </row>
+                  <row>
+                     <cell>Ravenous,</cell>
+                     <cell>Ungracious</cell>
+                     <cell>Monſtrous</cell>
+                     <cell>perſecutors</cell>
+                  </row>
+                  <row>
+                     <cell>Riotous,</cell>
+                     <cell>Violent</cell>
+                     <cell>Malevolent,</cell>
+                     <cell>plunderers</cell>
+                  </row>
+                  <row>
+                     <cell>Reprobate,</cell>
+                     <cell>Ungodly,</cell>
+                     <cell>Machiavellian</cell>
+                     <cell>Politicians</cell>
+                  </row>
+                  <row>
+                     <cell>Refractory,</cell>
+                     <cell>Vulturous</cell>
+                     <cell>Mordacious</cell>
+                     <cell>Pilers &amp; pollers</cell>
+                  </row>
+                  <row>
+                     <cell>Rancorous,</cell>
+                     <cell>Villanous,</cell>
+                     <cell>Malignant</cell>
+                     <cell>projectors</cell>
+                  </row>
+                  <row>
+                     <cell>Rotten,</cell>
+                     <cell>Unholy</cell>
+                     <cell>Mungrel,</cell>
+                     <cell>Profeſſors,</cell>
+                  </row>
+                  <row>
+                     <cell>Rayling,</cell>
+                     <cell>Unreaſo<g ref="char:cmbAbbrStroke">̄</g>able</cell>
+                     <cell>moſt memorable,</cell>
+                     <cell>profaners</cell>
+                  </row>
+                  <row>
+                     <cell>Revengfull</cell>
+                     <cell>Unruly</cell>
+                     <cell>Mechanick</cell>
+                     <cell>praeciſians</cell>
+                  </row>
+                  <row>
+                     <cell>Repugnant</cell>
+                     <cell>Untractable</cell>
+                     <cell>Moroſe</cell>
+                     <cell>Puritans,</cell>
+                  </row>
+                  <row>
+                     <cell>Rapacious,</cell>
+                     <cell>Uſurious</cell>
+                     <cell>Malapert</cell>
+                     <cell>Publicans</cell>
+                  </row>
+                  <row>
+                     <cell>Rammiſh</cell>
+                     <cell>Venereous,</cell>
+                     <cell>Maleficous</cell>
+                     <cell>Panders</cell>
+                  </row>
+                  <row>
+                     <cell>Renowned,</cell>
+                     <cell>Unparallel'd</cell>
+                     <cell>Manifeſt</cell>
+                     <cell>pick-pockets</cell>
+                  </row>
+                  <row>
+                     <cell>Regrating,</cell>
+                     <cell>unmeſurable</cell>
+                     <cell>miſerable</cell>
+                     <cell>purveyors</cell>
+                  </row>
+                  <row>
+                     <cell>Reptitious,</cell>
+                     <cell>vainglorious</cell>
+                     <cell>Mountebank</cell>
+                     <cell>Patriots</cell>
+                  </row>
+                  <row>
+                     <cell>Renegados</cell>
+                     <cell>Violators</cell>
+                     <cell>Multipliers</cell>
+                     <cell>Protectors</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Religion,</cell>
+                     <cell>Uniformity</cell>
+                     <cell>Miſery,</cell>
+                     <cell>Popery</cell>
+                  </row>
+                  <row>
+                     <cell>Ruiners</cell>
+                     <cell>Vilifiers</cell>
+                     <cell>Maſters</cell>
+                     <cell>Props</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                     <cell>
+                        <hi>of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Reformatio<g ref="char:cmbAbbrStroke">̄</g>
+                     </cell>
+                     <cell>Urbanity</cell>
+                     <cell>miſ-rule,</cell>
+                     <cell>pravity</cell>
+                  </row>
+                  <row>
+                     <cell>Ranſacking</cell>
+                     <cell>Vehement</cell>
+                     <cell>Mercileſs</cell>
+                     <cell>praedators</cell>
+                  </row>
+                  <row>
+                     <cell>Rifling</cell>
+                     <cell>Unchriſtian</cell>
+                     <cell>Moſs-trooping,</cell>
+                     <cell>pillagers</cell>
+                  </row>
+                  <row>
+                     <cell>Reprievleſs</cell>
+                     <cell>Unpardon<g ref="char:EOLhyphen"/>able</cell>
+                     <cell>maledict</cell>
+                     <cell>proditors</cell>
+                  </row>
+                  <pb n="6" facs="tcp:119437:5"/>
+                  <row>
+                     <cell>Rope</cell>
+                     <cell>
+                        <hi>Vane</hi>
+                     </cell>
+                     <cell>
+                        <hi>Martin,</hi>
+                     </cell>
+                     <cell>Pox</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>and</hi>
+                     </cell>
+                     <cell>and</cell>
+                     <cell>and</cell>
+                     <cell>
+                        <hi>and</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Robbery,</cell>
+                     <cell>Vanity,</cell>
+                     <cell>
+                        <hi>Mildmay,</hi>
+                     </cell>
+                     <cell>Priapiſme,</cell>
+                  </row>
+                  <row>
+                     <cell>Religious</cell>
+                     <cell>Veridicous</cell>
+                     <cell>
+                        <hi>Mercurius,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Politicus.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Beloved, as the Letters of this ſyllable <hi>Rump,</hi> have denoted and deſcribed unto you, the perſons, pro<g ref="char:EOLhyphen"/>perties and qualities of our wicked and ungodly <hi>Rump-men:</hi> So in the like manner, they will de<g ref="char:EOLhyphen"/>monſtrate unto you the Characters of Religious, Ho<g ref="char:EOLhyphen"/>nourable, and honeſt men; as for one example in<g ref="char:EOLhyphen"/>ſtead of many:
+<table>
+                  <row>
+                     <cell role="label">R</cell>
+                     <cell role="label">U.</cell>
+                     <cell role="label">M.</cell>
+                     <cell role="label">P.</cell>
+                  </row>
+                  <row>
+                     <cell>Renowned,</cell>
+                     <cell>Victorious,</cell>
+                     <cell>
+                        <hi>Monck,</hi>
+                     </cell>
+                     <cell>Proteſtant.</cell>
+                  </row>
+                  <row>
+                     <cell>Reformer <hi>of</hi>
+                     </cell>
+                     <cell>Vindicator <hi>of</hi>
+                     </cell>
+                     <cell>Moderator <hi>of</hi>
+                     </cell>
+                     <cell>Protector <hi>of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Religion,</cell>
+                     <cell>Verity,</cell>
+                     <cell>Monſtroſity,</cell>
+                     <cell>Purity.</cell>
+                  </row>
+                  <row>
+                     <cell>Reſtorer <hi>of</hi>
+                     </cell>
+                     <cell>Vanquiſher <hi>of</hi>
+                     </cell>
+                     <cell>Mitigator <hi>of</hi>
+                     </cell>
+                     <cell>Purger <hi>of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Royalty,</cell>
+                     <cell>Uſurpation,</cell>
+                     <cell>Miſery,</cell>
+                     <cell>Profaneſs.</cell>
+                  </row>
+                  <row>
+                     <cell>Repreſſor <hi>of</hi>
+                     </cell>
+                     <cell>Voucher <hi>of</hi>
+                     </cell>
+                     <cell>Molitor <hi>of</hi>
+                     </cell>
+                     <cell>Patron <hi>of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rebellion,</cell>
+                     <cell>Unity,</cell>
+                     <cell>Monarchy,</cell>
+                     <cell>Parliaments.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I might be voluminous, beloved, if I would, in ſuch Characters and deſcriptions; but I ſhall content my ſelf with what I have held forth unto you, and con<g ref="char:EOLhyphen"/>fine my ſelf in as much brevity as I can.</p>
+            <p>But as I have proved my Doctrine, by modern ex<g ref="char:EOLhyphen"/>amples, in our own knowledge and remembrance, as well as by ſollid and ſubſtantiall Reaſons and Ar<g ref="char:EOLhyphen"/>guments; give me leave, I pray, to vouch a few of more antient Authority; and I ſhall then draw my ſelf and you (beloved) to a ſpeedy Concluſion.</p>
+            <p>
+               <pb n="7" facs="tcp:119437:5"/>
+               <table>
+                  <row>
+                     <cell role="label">R.</cell>
+                     <cell role="label">U.</cell>
+                     <cell role="label">M.</cell>
+                     <cell role="label">P.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard</hi> the third, was an</cell>
+                     <cell>Uſurper,</cell>
+                     <cell>Murderer,</cell>
+                     <cell>Poyſoner.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And his Arms were broken at <hi>Boſworth</hi> field (be<g ref="char:EOLhyphen"/>fore he had tyranized two years and three moneths) by <hi>Henry</hi> the ſeventh.</p>
+            <p>
+               <hi>Oliver Cromwell</hi> (his wicked ſucceſſor) was <hi>a Rebellious, <g ref="char:V">Ʋ</g>ſurping, Murderous Protector.</hi>
+            </p>
+            <p>And what are become of his Arms, I pray you, are they not all broken? Yea, as well his material arms in the field, as his ficticious arms in his Shield, <hi>Rump-untur,</hi> they are all broken: And why? Was he not (I beſeech you)</p>
+            <p>A Renowned Runnagate; Voracious Vultur; Me<g ref="char:EOLhyphen"/>morable Martyr-Monger, Prodigious plot-maker.</p>
+            <p>Reproach <hi>to</hi> Religion, Van-guard <hi>to</hi> Violence, Mon<g ref="char:EOLhyphen"/>ſter <hi>to</hi> Majeſty, Peſt <hi>to</hi> Parliaments.</p>
+            <p>I might inſtance alſo in ſome other memorable ex<g ref="char:EOLhyphen"/>amples, as,</p>
+            <p>
+               <hi>Ravilliac</hi> the Regicide, <hi>
+                  <g ref="char:V">Ʋ</g>atinius</hi> the Vicious, <hi>Maſia<g ref="char:EOLhyphen"/>niello</hi> the Mortiferous, and Parſon <hi>Peters.</hi>
+            </p>
+            <p>But let the laſt ſuffice, if you pleaſe, inſteed of a thouſand: Parſon <hi>Peters,</hi> I ſay, beloved, he that is <hi>a</hi>
+               <table>
+                  <row>
+                     <cell role="label">R.</cell>
+                     <cell role="label">U.</cell>
+                     <cell role="label">M.</cell>
+                     <cell role="label">P.</cell>
+                  </row>
+                  <row>
+                     <cell>Racovian</cell>
+                     <cell>Virginity</cell>
+                     <cell>Miniſteriall</cell>
+                     <cell>Papiſtical</cell>
+                  </row>
+                  <row>
+                     <cell>Ranter,</cell>
+                     <cell>Vitiator,</cell>
+                     <cell>Mammoniſt,</cell>
+                     <cell>Puritan.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And thus have I done with Examples; a preſi<g ref="char:EOLhyphen"/>dent or two more, I might have cited, but being they were ſo impious and infamous (as <hi>Bradſhaw, Liſle,</hi> and the like) and to all the world ſo publickly noto<g ref="char:EOLhyphen"/>rious,
+<pb n="8" facs="tcp:119437:6"/>
+I pray let us acquieſce in the goodneſſe and providence of the Almighty, who hath broken them all in pieces; <hi>Rump-unter,</hi> they are broken: Thoſe bloody Regicides and Murderers of Royalliſts, <hi>Rump-untur.</hi>
+            </p>
+            <p>Having thus (beloved) fully proved unto you and holden forth the truth of my doctrine, I ſhall twiſt up all together like a <hi>Rump-us</hi> or Trail of Vines, in the French <hi>Rump-otineta,</hi> and diſmiſs you hence after a word or two of Uſe and Application.</p>
+            <p n="1">1. Is it ſo, the Armes of the wicked <hi>Rump-entur,</hi> ſhall be broken. Then this ſerves for a uſe of Con<g ref="char:EOLhyphen"/>viction and reproof of all the wicked men in the world, that ſince it is true that wicked Rump-men, Army-men, Committee-men, Exciſe-men, and ſo forth, <hi>Rump-untur</hi> are broken, confounded and brought to nought; The wicked alſo notwithſtand<g ref="char:EOLhyphen"/>ing their great ſtrength and policy, confidences and confederacies, <hi>Rump-entur,</hi> ſhall be broken.</p>
+            <p n="2">2. As it ſerves for conviction and reproof of wic<g ref="char:EOLhyphen"/>ked men, it may alſo ſerve for information and in<g ref="char:EOLhyphen"/>ſtruction of others that are good men, that onely the Armes of the wicked <hi>Rump-entur</hi> ſhall be broken, Rebellious Armes, Anabaptiſts Armes, <hi>Lambert</hi>'s Armes, <hi>Desboroughs</hi> Arms, <hi>Hewſons</hi> Armes, and his neck too, <hi>Rump-entur</hi> all ſhall be broken. Not Ge<g ref="char:EOLhyphen"/>nerall <hi>Monck</hi> his Armes, nor Generall <hi>Mountague</hi> his Armes, beloved, but the Armes of the wicked, <hi>Rump entur</hi> ſhall be broken.</p>
+            <p n="3">3. It ſerves for an excellent uſe of Conſolation to the Saints, that ſince it is ſo that the Armes of the wicked <hi>Rump-entur,</hi> ſhall be broken.</p>
+            <p>Then let us triumph and rejoyce in the late pro<g ref="char:EOLhyphen"/>vidences
+<pb n="9" facs="tcp:119437:6"/>
+and diſpenſations amongſt us, that ſince it hath mercifully pleaſ'd the divine Juſtice and Good<g ref="char:EOLhyphen"/>neſſe to break the Armes of our wicked <hi>Rump-men,</hi> who were ſuch, as I have before characteriſed under the Letters of that infamous Syllable; So for our Comfort, all other wicked Men, and their wicked Armes and forces in due time <hi>Rump-entur,</hi> ſhall be booken, diſſolved and confounded, and brought to nought.</p>
+            <p n="4">4. It may alſo ſerve for a Uſe of Triall and Exa<g ref="char:EOLhyphen"/>mination, that we ſhould examine and ſcrutinize our ſelves, whether any of us in this Meeting-houſe be of that wicked kind of men, that are deſcribed in the holding forth of my Text unto you, for if we be, aſſuredly then we may conclude, that in the end <hi>Rump-emur,</hi> we ſhall be broken.</p>
+            <p n="5">5. It may alſo ſerve for Caution and Warning to us, that ſince the Armes of the wicked <hi>Rump-entur,</hi> ſhall be broken, We our ſelves be warned to take heed, either of being ſuch wicked men, or joyning our ſelves with any wicked mens Armes, for in the end <hi>Rump-entur,</hi> they ſhall be broken.</p>
+            <p n="6">6. It may very well hold forth unto us alſo an Uſe of Exhortation, that we ſhould labour and endea<g ref="char:EOLhyphen"/>vour ſo to comport and behave our ſelves in a religi<g ref="char:EOLhyphen"/>ous &amp; conſcionable way in the affairs of this world, as that if we ſhould be neceſſitated to take up Armes for our juſt defence againſt Uſurpation and Oppreſ<g ref="char:EOLhyphen"/>ſion, we may not fall under the curſe and judgement of the wicked in my Text, The Arms of the wicked <hi>Rump-entur</hi> ſhall be broken.</p>
+            <p>And for our better encouragement to practiſe the
+<pb n="10" facs="tcp:119437:7"/>
+wayes of Religion, let us be excited and ſtirred up in our duty by a few Motives.</p>
+            <p n="1">1. Conſider (beloved) that a little that is honeſtly gotten with Gods bleſſing, is better than all the gold in <hi>Hiſpaniola, Jamaica</hi> and the Weſt Indies, which our late Uſurper would have gotten in the Devil's name, if he could, with the loſſe of twenty thouſand Souls and the honour of the Nation to boot.</p>
+            <p n="2">2. Conſider, That wickedneſſe and wicked men ſhall ſurely receive the guerdon of their Iniquity: as certainly as <hi>Lambert</hi> was in the Tower, and Sir <hi>George Booth</hi> at liberty and acquitted for Treaſon.</p>
+            <p n="3">3. Conſider, That good men are allways hono<g ref="char:EOLhyphen"/>red of the righteous; and their Names are lovely, as a ſweet ſmelling ſavour, as General <hi>Monck</hi> is to the City of <hi>London,</hi> and the good people of theſe nations; whereas our wicked and abhominable <hi>rump</hi>-men ſtink worſe in the Organs of all honeſt men, than the pollution of the defiled and contaminated Alderman's Poſteriors.</p>
+            <p n="4">4. Conſider, That the Armes of good men are very ſtrong Armes, and are fortified ſtrongly with divine benediction and ſecurity; whereas the Armes of the wicked are always a compact &amp; a company of rotten Members; and how eaſy a thing it is to break a rotten Member, or limbe of a corrupt and degene<g ref="char:EOLhyphen"/>ted perſon, our dayly experience will fully evidence and evince to us.</p>
+            <p n="5">5. Conſider the good Condition of good men (ſuch as fear God and honour the King) as our Chriſtian duty is (beloved) their Armes <hi>non Rump-entur,</hi> they ſhall not be broken, they are the Armes of the wicked that are and ſhall be broken. Such
+<pb n="11" facs="tcp:119437:7"/>
+wicked men, as break all the Laws of God without fear, and all the Laws of the Realm without ſhame, and all the Laws of Nations without compariſon; That pull down the Church to ſet up their States, murder their King to reign in his ſtead, keep out his Son to keep his Inheritance; Theſe wicked men <hi>ex neceſſe Rump-entur</hi> they muſt be broken.</p>
+            <p>A word onely to tell you how they muſt be bro<g ref="char:EOLhyphen"/>ken, and I conclude.</p>
+            <p>
+               <hi>Rump-antur,</hi> let them be broken, in the very ſame manner, as they have broken others, but with a dif<g ref="char:EOLhyphen"/>ferent reſpect. As they murthered their King, let them have the execution of rebellious Traytors. As they ſold his Lands and revenues amongſt themſelves, let them be reinveſted in the Crown, as forfeited for Treaſon and ſo forth. This Law of Retaliation is an equitable and moſt excellent Law. Is it not better for the good of their ſouls, that they ſhould be hangd by the hand of Juſtice, than be <hi>felones de ſe,</hi> and hang up themſelves as Alderman <hi>Hoyle</hi> did, or to runne ſtark mad and die in deſpair upon the bare convicti<g ref="char:EOLhyphen"/>on of a parrat, as young <hi>Rowland Wilſon</hi> did? or be ſo hard put to it by the Devil for ſecurity, as to give <hi>Bond</hi> 3 or 4 dayes before for their appearance in the <hi>Tartarian</hi> Court, as old <hi>Oliver</hi> did?</p>
+            <p>Theſe are ſad Truths (Beloved) I confeſſe,</p>
+            <p>But now to conclude, let me ſeriouſly requeſt you to conſider ſeriouſly what hath been held forth unto you at this Seaſon: Remember the Text, The Armes of the wicked <hi>Rump-entur:</hi> recollect the Doctrine, the Reaſons, the Examples, the Uſes with the Mo<g ref="char:EOLhyphen"/>tives, the Method that you are to take. Sit not wic<g ref="char:EOLhyphen"/>kedly downe on your <hi>Rumps,</hi> as the <hi>Rump-men</hi> did
+<pb n="12" facs="tcp:119437:8"/>
+contemning and proudly diſdaining all Chriſtian admonition an reproof. No (beloved) go home and do as you would be done unto: Deal honeſtly, juſtly, religiouſly, that the cries of the fatherleſs and widows aſcend not up to heaven againſt you for vengeance; and what you do, do it ſeaſonably, ſe<g ref="char:EOLhyphen"/>riouſly, ſpeedily, <hi>Give unto Ceſar the things that are Ceſars, and unto God the things that are Gods,</hi> and then in ſpight of all oppoſition, ſtrength, policy, combination and confederacy, the words of my Text ſhall be fully verifyed, The Armes of the wicked RUMP-ENTUR.</p>
+            <trailer>Vivat Rex, currat Lex, vigeat Grex, Amen.</trailer>
+            <pb facs="tcp:119437:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
